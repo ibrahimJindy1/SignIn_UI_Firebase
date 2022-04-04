@@ -1,0 +1,15 @@
+{
+    "helloWorld": "Hello !",
+    "signIn": "Let's Go !",
+    "signInText": "Sign In",
+    "registerText": "Register",
+    "signOut": "Sign Out",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "password": "Password",
+    "phoneNumber": "phoneNumber",
+    "next": "Next",
+    "male": "Male",
+    "female": "Female",
+    "otherG": "Others"
+}

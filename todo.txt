@@ -1,0 +1,15 @@
+1- login:
+A- Login ui:
+A1- Register/Login with google
+A2- Register/Login with Phone
+B- Client Information:
+B1- text Information
+B2- User img
+
+2- Main Menu:
+A- Home:
+A1- Clinics
+A2- Doctors
+A3- Messages
+A4- Notifications
+A5- Profile

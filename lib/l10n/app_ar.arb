@@ -1,0 +1,15 @@
+{
+    "helloWorld": "مرحبا",
+    "signIn": "ادخل !",
+    "signInText": "تسجيل الدخول",
+    "registerText": "تسجيل جديد",
+    "signOut": "تسجيل الخروج",
+    "firstName": "الاسم",
+    "lastName": "الكنية",
+    "password": "كلمة السر",
+    "phoneNumber": "رقم الهاتف",
+    "next": "التالي",
+    "male": "ذكر",
+    "female": "أنثى",
+    "otherG": "غير ذلك"
+}
